@@ -3,4 +3,4 @@ pandas
 numpy
 pyyaml
 jsonschema
-streamlit-components
+# streamlit-components
