@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "Intermediate"
+    },
+    {
+      "name": "HTML/CSS",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Data Analysis",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Machine Learning",
+      "proficiency": "Intermediate"
+    },
+    {
+      "name": "Web Development",
+      "proficiency": "Intermediate"
+    }
+  ]
+}
